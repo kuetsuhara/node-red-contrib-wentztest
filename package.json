@@ -1,0 +1,27 @@
+{
+  "name": "node-red-contrib-wentztest",
+  "version": "1.0.0",
+  "description": "my first node-red module",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "wentz-node": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuetsuhara/node-red-contrib-wentztest.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "ssdkfk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kuetsuhara/node-red-contrib-wentztest/issues"
+  },
+  "homepage": "https://github.com/kuetsuhara/node-red-contrib-wentztest#readme"
+}
